@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 Hello, I'm Alex<br>
 I'm a graduate of the University of North Texas<br>
 I studied Data Science and Computer Science<br>
+I am now a student at Johns Hopkins University<br>
+I am studying Robotics and Autonomous Systems<br>
 I like building medical-centered products<br>
 I like participating in hackathons<br>
 Feel free to reach out<br>
